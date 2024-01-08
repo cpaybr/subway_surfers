@@ -1,4 +1,5 @@
-# White Label - Sua Própria Plataforma Personalizada
+# Subway White Label - Sua Própria Plataforma Personalizada
+## Ganhe Dinheiro com o Famoso Subway Surfers pay/money/cash
 
 Você está procurando uma plataforma semelhante ao Subway Surfers para criar a sua própria versão personalizada com a sua logo e oportunidade de monetização? Temos a solução ideal e acessível, além de oferecermos serviços de hospedagem para a sua plataforma!
 
